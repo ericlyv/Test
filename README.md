@@ -15,10 +15,17 @@ I will pull request and see if it adds up to the previous commit.
 
 Commit 3: Success. It added to the first edits and the second edits added to the first. It showed the time I made the second edits in the history.
 
-Next, I will add 4 texts to delete and delete one of them before committing changes to see if I can see any changes done before committing.
+Next, I will add 4 texts to delete and delete one of them before committing changes to see if I can see any changes done before committing are saved.
 
 It should show 1 red line (the one I deleted) if so.
 
-DELETE THIS
-DELETE THIS
-DELETE THIS
+
+Commit 4: The changes are not saved. There was no red line or sign that I deleted a line above.
+
+The change is made if I delete after committing.
+
+Now that I deleted, it should show red lines.
+
+I noticed that I can create new pull requests???
+
+I will try to pull a new one after this commit to see what happens.
