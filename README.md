@@ -38,3 +38,16 @@ I clicked on pull new request and selected the test-edits (a.k.a this branch) bu
 I guess you cannot pull new requests but you can make more commits.
 
 I will merge now to master now.
+
+
+Commit 6: I merged the edits and deleted the branch.
+
+THe edits has overidden the master file. 
+
+Cannot see the changes made/history (green/red lines).
+
+I am making this commit directly to the master after merge.
+
+So, I guess the changes can only be seen after making commits and pulling requests before merging to master.
+
+Better create a branch before making changes to avoid accidentally making changes to master. That way any edits made to the branch won't affect the master and original work can be recovered if needed.
