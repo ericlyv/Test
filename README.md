@@ -29,3 +29,12 @@ Now that I deleted, it should show red lines.
 I noticed that I can create new pull requests???
 
 I will try to pull a new one after this commit to see what happens.
+
+
+Commit 5: Changes are seens. All deleted or changed texts show as red and the new text is displayed below it.
+
+I clicked on pull new request and selected the test-edits (a.k.a this branch) but it only brings me to compare this branch to the master.
+
+I guess you cannot pull new requests but you can make more commits.
+
+I will merge now to master now.
